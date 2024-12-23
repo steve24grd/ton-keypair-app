@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(19, 19, 52);
+  color: #fff;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 2rem;
+}
